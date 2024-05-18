@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Msharova
-- 👀 I’m interested in Front-end development
-- 🌱 I've finished SheCodes and Brainnest trainings and I'm very exited about it!
-- 💞️ I’m looking for collaborations on different projects as a junior front-end developer.
+- 👀 I’m interested in Backend and Frontend development
+- 🌱 I'm currently a Software Engineer in AT&T.
+- 💞️ I’m looking for collaborations on different projects.
 - 📫 You can contact me via email: sharova.maria.3d@gmail.com
 
 <!---
