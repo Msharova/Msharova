@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Msharova
 - 👀 I’m interested in Backend and Frontend development
-- 🌱 I'm currently a Software Engineer in AT&T.
+- 🌱 Former Software Engineer at AT&T.
 - 💞️ I’m looking for collaborations on different projects.
 - 📫 You can contact me via email: sharova.maria.3d@gmail.com
 
